@@ -13,12 +13,11 @@ class Inimitable(Theme):
     @property
     def widgets(self):
         return [
-            Widget(self.parent_package, "css", "fonts", optional=False), # A widget generator?
+            Widget(self.parent_package, "css", "fonts", optional=False),
             WebBadge("turberfield.punchline", "assets", config="turberfield.punchline"),
         ]
 
     def __exit__(self, exc_type, exc_val, exc_tb):
-        print(*[vars(i) for i in self.widgets], sep="\n")
         for w in self.widgets:
             if w.config in self.cfg:
                 for resource in w.resources:
