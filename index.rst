@@ -8,10 +8,10 @@ Index
 0
 -
 
+.. property:: SETTINGS.punchline-states-refresh none
 
 `Monday </monday/00.html>`_.
 
-.. property:: SETTINGS.punchline-states-refresh none
 
 1
 -

@@ -11,6 +11,12 @@ from turberfield.punchline.widget import WebBadge
 class Inimitable(Theme):
 
     @property
+    def definitions(self):
+        return {
+            "inimitable-data-coins": "12",
+        }
+
+    @property
     def widgets(self):
         return [
             Widget(self.parent_package, "css", "fonts", optional=False),
