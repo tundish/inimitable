@@ -1,3 +1,5 @@
+:nodes: {0:02d}
+
 .. entity:: SETTINGS
    :types: turberfield.punchline.types.Settings
 

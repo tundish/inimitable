@@ -95,7 +95,7 @@ There is 1 coin.
 00
 --
 
-.. property:: SETTINGS.punchline-states-refresh /index.html
+.. property:: SETTINGS.punchline-states-refresh /index/00.html
 
 There are no coins left.
 

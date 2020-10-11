@@ -13,7 +13,7 @@ class Inimitable(Theme):
     @property
     def definitions(self):
         return {
-            "inimitable-data-coins": "12",
+            #"inimitable-data-coins": "12",
         }
 
     @property
