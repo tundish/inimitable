@@ -95,6 +95,8 @@ There is 1 coin.
 00
 --
 
+.. property:: SETTINGS.punchline-states-refresh /index/01.html
+
 There are no coins left.
 
 .. _random: https://www.random.org/integers/?num=1&min=1&max=3&col=1&base=10&format=html
