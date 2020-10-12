@@ -10,9 +10,23 @@ Tuesday
 12
 --
 
+[TRIPITAKA]_
+
+    How many coins do you have again?
+
+[MANDELBROT]_
+
+    Twelve.
+
+    You know, that's strange. After all we've been through, and I still haven't
+    spent any money.
+
+[TRIPITAKA]_
+
+    Well that's good, because I still haven't figured this out.
+
 .. property:: SETTINGS.punchline-states-refresh none
 
-There are 12 coins.
 Take `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__ coins.
 
 11-08
