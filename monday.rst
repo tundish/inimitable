@@ -57,67 +57,118 @@ Monday
 
 [MANDELBROT]_
 
-    Take `one <02.html>`__, `two <03.html>`__ or `three <04.html>`__ coins.
+    Well go on then. You first.
+
+[TRIPITAKA]_
+
+    Do the voice.
+
+[MANDELBROT]_
+
+    You may choose `one <02.html>`__, `two <03.html>`__ or `three <04.html>`__ coins.
+
+    But choose wisely!
 
 11-08
 -----
 
-.. property:: SETTINGS.punchline-states-refresh monday/05.html
+[NARRATOR]_
 
-There are 11 coins.
+    **Tripitaka** takes a single silver piece and puts it to one side.
+
+    **Mandelbrot** scrapes at the ground and ends up with three.
+
+.. property:: SETTINGS.punchline-states-refresh monday/05.html
 
 10-08
 -----
 
-Tripitaka taps hits fingers a couple of times.
+[NARRATOR]_
+
+    **Tripitaka** takes two coins and holds them aloft.
+
+    **Mandelbrot** takes the same.
 
 .. property:: SETTINGS.punchline-states-refresh monday/05.html
 
-There are 10 coins.
 
 09-08
 -----
 
-Tripitaka drums his fingers.
+[NARRATOR]_
+
+    **Tripitaka** takes three coins and rattles them together.
+
+    **Mandelbrot** takes one coin from the pile.
 
 .. property:: SETTINGS.punchline-states-refresh monday/05.html
-
-There are 9 coins.
 
 08
 --
 
-.. property:: SETTINGS.punchline-states-refresh none
+[TRIPITAKA]_
 
-There are 8 coins.
-Take `one <06.html>`__, `two <06.html>`__ or `three <06.html>`__ coins.
+    I'm afraid I might be a little rusty.
+
+[MANDELBROT]_
+
+    Take your time.
+
+    You can have either `one <06.html>`__, `two <06.html>`__ or `three <06.html>`__ coins.
+
+.. property:: SETTINGS.punchline-states-refresh none
 
 07-04
 -----
 
-.. property:: SETTINGS.punchline-states-refresh monday/09.html
+[NARRATOR]_
 
-There are 7 coins.
+    **Tripitaka** drums his fingers a little. He takes one coin.
+
+    **Mandelbrot** carefully selects three.
+
+.. property:: SETTINGS.punchline-states-refresh monday/09.html
 
 06-04
 -----
 
-.. property:: SETTINGS.punchline-states-refresh monday/09.html
+[NARRATOR]_
 
-There are 6 coins.
+    **Tripitaka** takes two coins from the small pile.
+
+    **Mandelbrot** takes another two.
+
+.. property:: SETTINGS.punchline-states-refresh monday/09.html
 
 05-04
 -----
 
-.. property:: SETTINGS.punchline-states-refresh monday/09.html
+[NARRATOR]_
 
-There are 5 coins.
+    **Tripitaka** clucks with his tongue and hesitates.
+
+[MANDELBROT]_
+
+    Entirely up to you.
+
+[NARRATOR]_
+
+    **Tripitaka** suddenly takes three coins.
+
+    **Mandelbrot** takes one coin for himself.
+
+.. property:: SETTINGS.punchline-states-refresh monday/09.html
 
 04
 --
 
-There are 4 coins.
-Take `one <10.html>`__, `two <11.html>`__ or `three <12.html>`__ coins.
+[TRIPITAKA]_
+
+    Exciting. Not many left now.
+
+[MANDELBROT]_
+
+    Will you take `one <10.html>`__, `two <11.html>`__ or `three <12.html>`__?.
 
 03
 --
