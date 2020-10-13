@@ -1,11 +1,30 @@
+:author:    D Haynes
+:made_at:   2020-10-14
 :nodes: {0:02d}
 
 .. entity:: SETTINGS
    :types: turberfield.punchline.types.Settings
 
+.. entity:: TRIPITAKA
+   :types: turberfield.punchline.types.Eponymous
+
+.. entity:: MANDELBROT
+   :types: turberfield.punchline.types.Eponymous
+
 
 Wednesday
 =========
+
+On horseback
+------------
+
+[MANDELBROT]_
+
+    Listen, I don't want to go through all that nonsense like we did last year.
+
+[TRIPITAKA]_
+
+    Yeah, I know. Maybe I should just tell you the secret.
 
 12
 --
