@@ -1,4 +1,6 @@
-:nodes: {0:02d}
+:author:    D Haynes
+:made_at:   2020-10-12
+:nodes:     {0:02d}
 
 .. entity:: SETTINGS
    :types: turberfield.punchline.types.Settings

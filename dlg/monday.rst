@@ -1,3 +1,4 @@
+:author: D Haynes
 :nodes: {0:02d}
 
 .. entity:: SETTINGS
@@ -114,7 +115,7 @@ Monday
 
     Take your time.
 
-    You can have either `one <06.html>`__, `two <06.html>`__ or `three <06.html>`__ coins.
+    You can have either `one <06.html>`__, `two <07.html>`__ or `three <08.html>`__ coins.
 
 .. property:: SETTINGS.punchline-states-refresh none
 
@@ -166,30 +167,52 @@ Monday
 
     Exciting. Not many left now.
 
-[MANDELBROT]_
+[NARRATOR]_
 
-    Will you take `one <10.html>`__, `two <11.html>`__ or `three <12.html>`__?.
+    **Tripitaka** has the choice of `one <10.html>`__, `two <11.html>`__ or `three <12.html>`__ coins.
+
+.. property:: SETTINGS.punchline-states-refresh none
 
 03
 --
 
-.. property:: SETTINGS.punchline-states-refresh monday/13.html
+[NARRATOR]_
 
-There are 3 coins.
+    **Mandelbrot** chuckles a little.
+
+[MANDELBROT]_
+
+    Three, and I win.
+
+.. property:: SETTINGS.punchline-states-refresh index/01.html
 
 02
 --
 
-.. property:: SETTINGS.punchline-states-refresh monday/13.html
+[NARRATOR]_
 
-There are 2 coins.
+    **Mandelbrot** chuckles a little.
+
+[MANDELBROT]_
+
+    Two, and I win.
+
+.. property:: SETTINGS.punchline-states-refresh index/01.html
 
 01
 --
 
-.. property:: SETTINGS.punchline-states-refresh monday/13.html
 
-There is 1 coin.
+[NARRATOR]_
+
+    **Mandelbrot** chuckles a little.
+
+[MANDELBROT]_
+
+    One, and I win.
+
+.. property:: SETTINGS.punchline-states-refresh index/01.html
+
 
 00
 --
@@ -202,6 +225,5 @@ There is 1 coin.
 
     I heard that.
 
-.. property:: SETTINGS.punchline-states-refresh /index/01.html
 
 .. _random: https://www.random.org/integers/?num=1&min=1&max=3&col=1&base=10&format=html
