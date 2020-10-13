@@ -178,7 +178,7 @@ Monday
 
 [NARRATOR]_
 
-    **Mandelbrot** chuckles a little.
+    **Mandelbrot** chuckles slightly.
 
 [MANDELBROT]_
 
@@ -191,7 +191,7 @@ Monday
 
 [NARRATOR]_
 
-    **Mandelbrot** chuckles a little.
+    **Mandelbrot** gives a little wink.
 
 [MANDELBROT]_
 
@@ -205,7 +205,7 @@ Monday
 
 [NARRATOR]_
 
-    **Mandelbrot** chuckles a little.
+    **Mandelbrot** shakes his head.
 
 [MANDELBROT]_
 

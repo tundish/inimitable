@@ -109,13 +109,25 @@ Tuesday
 
 [NARRATOR]_
 
-    **Tripitaka** puffs his cheeks a couple of times.
+    **Tripitaka** flubs his cheeks a couple of times.
 
     He picks up two coins.
 
 [MANDELBROT]_
 
-    Do you have to always do that?
+    Isn't there anything you can do silently?
+
+[TRIPITAKA]_
+
+    Of course. I am a Taoist monk you know.
+
+[MANDELBROT]_
+
+    Well you could have fooled me.
+
+[TRIPITAKA]_
+
+    Exactly.
 
 [NARRATOR]_
 
@@ -128,8 +140,9 @@ Tuesday
 
 [NARRATOR]_
 
-    **Tripitaka** lets out an enormous sneeze. He seems very pleased with hinself, and
-    takes threee coins.
+    **Tripitaka** lets out an enormous sneeze.
+
+    He seems very pleased with himself, and takes three coins.
 
 [MANDELBROT]_
 
@@ -139,41 +152,51 @@ Tuesday
 
     **Mandelbrot** takes a coin from the pile.
 
-
 .. property:: SETTINGS.punchline-states-refresh tuesday/08.html
 
 04
 --
 
-There are 4 coins.
-Take `one <09.html>`__, `two <10.html>`__ or `three <11.html>`__ coins.
+[MANDELBROT]_
+
+    Come on, let's just get this over with.
+
+[NARRATOR]_
+
+    **Tripitaka** savours the moment. He can pick up
+    `one <09.html>`__, `two <10.html>`__ or `three <11.html>`__ coins.
+
+.. property:: SETTINGS.punchline-states-refresh none
 
 03
 --
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/12.html
+[MANDELBROT]_
 
-There are 3 coins.
+    Three. Another win to meeeee.
+
+.. property:: SETTINGS.punchline-states-refresh index/02.html
 
 02
 --
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/12.html
+[MANDELBROT]_
 
-There are 2 coins.
+    Two. And victory.
+
+    Again.
+
+.. property:: SETTINGS.punchline-states-refresh index/02.html
 
 01
 --
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/12.html
+[MANDELBROT]_
 
-There is 1 coin.
+    And this one is mine.
 
-00
---
+    I win.
 
-.. property:: SETTINGS.punchline-states-refresh /index/02.html
-
-There are no coins left.
+.. property:: SETTINGS.punchline-states-refresh index/02.html
 
 .. _random: https://www.random.org/integers/?num=1&min=1&max=3&col=1&base=10&format=html
