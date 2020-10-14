@@ -1,7 +1,16 @@
+:author:    D Haynes
+:made_at:   2020-10-14
 :nodes: {0:02d}
 
 .. entity:: SETTINGS
    :types: turberfield.punchline.types.Settings
+
+.. entity:: TRIPITAKA
+   :types: turberfield.punchline.types.Eponymous
+
+.. entity:: MANDELBROT
+   :types: turberfield.punchline.types.Eponymous
+
 
 
 Thursday
@@ -31,6 +40,8 @@ Freedom of choice
     At the moment I suggest a game, you imagine yourself the winner.
 
     And consequently, every move you make is decided by me.
+
+.. property:: SETTINGS.punchline-states-refresh inherit
 
 About winning
 -------------

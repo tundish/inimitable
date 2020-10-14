@@ -104,6 +104,8 @@ Game over
 
     Really.
 
+.. property:: SETTINGS.punchline-states-refresh inherit
+
 Salt in the wound
 -----------------
 
@@ -127,4 +129,4 @@ Salt in the wound
 
     Sorry. I needed enough experiments to be statistically significant.
 
-.. property:: SETTINGS.punchline-states-refresh inherit
+.. property:: SETTINGS.punchline-states-refresh index/03.html

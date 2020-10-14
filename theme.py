@@ -46,10 +46,12 @@ class Inimitable(Theme):
         for w in self.widgets:
             if w.config in self.cfg:
                 for resource in w.resources:
-                    path = pathlib.Path(__file__).parent.joinpath(resource).resolve()
+                    src = pathlib.Path(__file__).parent.joinpath(resource).resolve()
+                    dst = self.output.joinpath(resource)
+                    if src == dst: continue
                     try:
-                        shutil.copytree(path, self.output.joinpath(resource), dirs_exist_ok=True)
+                        shutil.copytree(path, dst, dirs_exist_ok=True)
                     except FileNotFoundError as e:
-                        with importlib.resources.path(w.package, resource) as path:
-                            shutil.copytree(path, self.output.joinpath(resource), dirs_exist_ok=True)
+                        with importlib.resources.path(w.package, resource) as src:
+                            shutil.copytree(src, dst, dirs_exist_ok=True)
 
