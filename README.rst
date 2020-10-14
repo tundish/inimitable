@@ -1,1 +1,1 @@
-~/venv/py3.8-blog/Scripts/punchline.exe --config punchline.cfg --output . dlg/
+~/venv/py3.8-blog/Scripts/punchline.exe --config punchline.cfg --output site dlg/

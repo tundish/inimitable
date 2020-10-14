@@ -50,7 +50,7 @@ class Inimitable(Theme):
                     dst = self.output.joinpath(resource)
                     if src == dst: continue
                     try:
-                        shutil.copytree(path, dst, dirs_exist_ok=True)
+                        shutil.copytree(src, dst, dirs_exist_ok=True)
                     except FileNotFoundError as e:
                         with importlib.resources.path(w.package, resource) as src:
                             shutil.copytree(src, dst, dirs_exist_ok=True)
