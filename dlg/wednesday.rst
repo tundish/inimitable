@@ -15,107 +15,116 @@
 Wednesday
 =========
 
-On horseback
-------------
+12
+--
 
 [MANDELBROT]_
 
-    Listen, I don't want to go through all that nonsense like we did last year.
+    Listen, I really don't want to play any more.
 
 [TRIPITAKA]_
 
     Yeah, I know. Maybe I should just tell you the secret.
 
-12
---
+    One last game, so I can show you?
+
+[MANDELBROT]_
+
+    You mean you've actually worked it out?
+
+    Finally.
+
+[TRIPITAKA]_
+
+    So I can pick `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__.
 
 .. property:: SETTINGS.punchline-states-refresh none
-
-There are 12 coins.
-Take `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__ coins.
 
 11-08
 -----
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
+[NARRATOR]_
 
-There are 11 coins.
+    **Tripitaka** picks up a coin and taps it against his teeth.
+
+    **Mandelbrot** collects three coins from the pile.
+
+[TRIPITAKA]_
+
+    So I tap, tap, tap. And you pick up three coins.
+
+.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
 
 10-08
 -----
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
+[NARRATOR]_
 
-There are 10 coins.
+    **Tripitaka** takes two coins and strikes them together.
+
+    **Mandelbrot** also picks up two coins.
+
+[TRIPITAKA]_
+
+    So I go da-ding!
+
+    And you take two coins.
+
+.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
 
 09-08
 -----
 
+[NARRATOR]_
+
+    **Tripitaka** takes three coins and clicks his fingers.
+
+    **Mandelbrot** takes a coin from the pile.
+
+[TRIPITAKA]_
+
+    So I go snap!
+
+    And you take one coin.
+
 .. property:: SETTINGS.punchline-states-refresh wednesday/04.html
 
-There are 9 coins.
+Game over
+---------
 
-08
---
+[MANDELBROT]_
 
-.. property:: SETTINGS.punchline-states-refresh none
+    Very funny.
 
-There are 8 coins.
-Take `one <05.html>`__, `two <06.html>`__ or `three <07.html>`__ coins.
+[TRIPITAKA]_
 
-07-04
------
+    It's an old Taoist technique.
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/08.html
+[MANDELBROT]_
 
-There are 7 coins.
+    Really.
 
-06-04
------
+Salt in the wound
+-----------------
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/08.html
+[TRIPITAKA]_
 
-There are 6 coins.
+    Cavity modulation of Chi pulses, coupling into your nervous system to act as a pre-cognitive modifier.
 
-05-04
------
+[MANDELBROT]_
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/08.html
+    Well that would explain all the tapping and the coughing and the farting.
 
-There are 5 coins.
+[TRIPITAKA]_
 
-04
---
+    Maybe not the farting.
 
-There are 4 coins.
-Take `one <09.html>`__, `two <10.html>`__ or `three <11.html>`__ coins.
+[MANDELBROT]_
 
-03
---
+    You've had me play hundreds of times.
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/12.html
+[TRIPITAKA]_
 
-There are 3 coins.
+    Sorry. I needed enough experiments to be statistically significant.
 
-02
---
-
-.. property:: SETTINGS.punchline-states-refresh wednesday/12.html
-
-There are 2 coins.
-
-01
---
-
-.. property:: SETTINGS.punchline-states-refresh wednesday/12.html
-
-There is 1 coin.
-
-00
---
-
-.. property:: SETTINGS.punchline-states-refresh /index/03.html
-
-There are no coins left.
-
-.. _random: https://www.random.org/integers/?num=1&min=1&max=3&col=1&base=10&format=html
+.. property:: SETTINGS.punchline-states-refresh inherit

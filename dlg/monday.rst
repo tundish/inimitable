@@ -212,16 +212,3 @@ Monday
     One, and I win.
 
 .. property:: SETTINGS.punchline-states-refresh index/01.html
-
-
-00
---
-
-[MANDELBROT]_
-
-    *Fractals*.
-
-[TRIPITAKA]_
-
-    I heard that.
-

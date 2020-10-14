@@ -7,96 +7,59 @@
 Thursday
 ========
 
-12
---
+Freedom of choice
+-----------------
 
-.. property:: SETTINGS.punchline-states-refresh none
+[MANDELBROT]_
 
-There are 12 coins.
-Take `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__ coins.
+    What kind of sicko wants to play Nim every day, when they know they're going to lose?
 
-11-08
------
+[TRIPITAKA]_
 
-.. property:: SETTINGS.punchline-states-refresh thursday/04.html
+    I guess I prefer my freedom of choice.
 
-There are 11 coins.
+[MANDELBROT]_
 
-10-08
------
+    We both have freedom of choice.
 
-.. property:: SETTINGS.punchline-states-refresh thursday/04.html
+[TRIPITAKA]_
 
-There are 10 coins.
+    No, I can choose whichever coins I like.
 
-09-08
------
+    You on the other hand, are compelled to follow the pattern.
 
-.. property:: SETTINGS.punchline-states-refresh thursday/04.html
+    At the moment I suggest a game, you imagine yourself the winner.
 
-There are 9 coins.
+    And consequently, every move you make is decided by me.
 
-08
---
+About winning
+-------------
 
-.. property:: SETTINGS.punchline-states-refresh none
+[MANDELBROT]_
 
-There are 8 coins.
-Take `one <05.html>`__, `two <06.html>`__ or `three <07.html>`__ coins.
+    Well you're forgetting one thing. I own twelve silver coins.
+    Precisely because I *am* always the winner.
 
-07-04
------
+[TRIPITAKA]_
 
-.. property:: SETTINGS.punchline-states-refresh thursday/08.html
+    And yet you never spend them on anything. You've had them for years.
 
-There are 7 coins.
+    It seems all you can do with them is play Nim.
 
-06-04
------
+[MANDELBROT]_
 
-.. property:: SETTINGS.punchline-states-refresh thursday/08.html
+    See, this is why I hate you, Tripitaka.
 
-There are 6 coins.
+    I should have hooked up with Roger Bacon instead.
 
-05-04
------
+[TRIPITAKA]_
 
-.. property:: SETTINGS.punchline-states-refresh thursday/08.html
+    He doesn't have my sense of humour though.
 
-There are 5 coins.
+[MANDELBROT]_
 
-04
---
+    *Fractals*.
 
-There are 4 coins.
-Take `one <09.html>`__, `two <10.html>`__ or `three <11.html>`__ coins.
+[TRIPITAKA]_
 
-03
---
-
-.. property:: SETTINGS.punchline-states-refresh thursday/12.html
-
-There are 3 coins.
-
-02
---
-
-.. property:: SETTINGS.punchline-states-refresh thursday/12.html
-
-There are 2 coins.
-
-01
---
-
-.. property:: SETTINGS.punchline-states-refresh thursday/12.html
-
-There is 1 coin.
-
-00
---
-
-.. property:: SETTINGS.punchline-states-refresh /index/04.html
-
-There are no coins left.
-
-.. _random: https://www.random.org/integers/?num=1&min=1&max=3&col=1&base=10&format=html
+    I heard that.

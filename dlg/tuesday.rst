@@ -33,7 +33,7 @@ Tuesday
 
     Well that's good, because I still haven't figured this out.
 
-    Now then, shall I take `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__ coins?.
+    Now then, shall I take `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__ coins?
 
 .. property:: SETTINGS.punchline-states-refresh none
 

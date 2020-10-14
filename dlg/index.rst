@@ -31,8 +31,3 @@ Index
 -
 
 `Thursday </thursday/00.html>`_.
-
-4
--
-
-`Friday </friday/00.html>`_.
