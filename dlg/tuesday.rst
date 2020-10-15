@@ -83,7 +83,7 @@ Tuesday
     pick at random_?
 
     Just let me know.
-    `One <05.html>`__, `Two <06.html>`__ or `Three <07.html>`__?
+    `One <05.html>`__, `two <06.html>`__ or `three <07.html>`__?
 
 .. property:: SETTINGS.punchline-states-refresh none
 

@@ -36,7 +36,7 @@ Wednesday
 
 [TRIPITAKA]_
 
-    So I can pick `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__.
+    So I'm allowed to pick `one <01.html>`__, `two <02.html>`__ or `three <03.html>`__ coins.
 
 .. property:: SETTINGS.punchline-states-refresh none
 
@@ -51,7 +51,7 @@ Wednesday
 
 [TRIPITAKA]_
 
-    So I tap, tap, tap. And you pick up three coins.
+    So I tap, tap, tap. And in response you pick up three coins.
 
 .. property:: SETTINGS.punchline-states-refresh 04.html
 
@@ -66,7 +66,7 @@ Wednesday
 
 [TRIPITAKA]_
 
-    So I go da-ding!
+    So I go da-ding! It enters your subconscious and...
 
     And you take two coins.
 
@@ -83,9 +83,9 @@ Wednesday
 
 [TRIPITAKA]_
 
-    So I go snap!
+    So I go snap! It freezes all your instinct for spontaneity.
 
-    And you take one coin.
+    And so you take one single coin.
 
 .. property:: SETTINGS.punchline-states-refresh 04.html
 
@@ -103,6 +103,10 @@ Game over
 [MANDELBROT]_
 
     Really.
+
+[NARRATOR]_
+
+    **Tripitaka** giggles.
 
 .. property:: SETTINGS.punchline-states-refresh inherit
 
