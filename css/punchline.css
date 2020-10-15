@@ -19,42 +19,42 @@ vertical-align: baseline;
 @font-face {
 font-family: "Fontin";
 src: local("Fontin-Regular"),
-    url(../fonts/fontin_pc/Fontin-Regular.otf) format("opentype");
+    url("../fonts/fontin_pc/Fontin-Regular.otf") format("opentype");
 font-weight: 100 600;
 }
 
 @font-face {
 font-family: "Fontin";
 src: local("Fontin-Bold"),
-    url(../fonts/fontin_pc/Fontin-Bold.otf) format("opentype");
+    url("../fonts/fontin_pc/Fontin-Bold.otf") format("opentype");
 font-weight: 600 950;
 }
 
 @font-face {
 font-family: "Fontin";
 src: local("Fontin-Italic"),
-    url(../fonts/fontin_pc/Fontin-Italic.otf) format("opentype");
+    url("../fonts/fontin_pc/Fontin-Italic.otf") format("opentype");
 font-style: italic;
 }
 
 @font-face {
 font-family: "Fontin Small Caps";
 src: local("Fontin-SmallCaps"),
-    url(../fonts/fontin_pc/Fontin-SmallCaps.otf) format("opentype");
+    url("../fonts/fontin_pc/Fontin-SmallCaps.otf") format("opentype");
 font-weight: 100 950;
 }
 
 @font-face {
 font-family: "Yozakura Light";
 src: local("Yozakura"), local("Yozakura-Light"),
-    url(../fonts/yozakura/yozakuraJP-Light.otf) format("opentype");
+    url("../fonts/yozakura/yozakuraJP-Light.otf") format("opentype");
 font-weight: 100 300;
 }
 
 @font-face {
 font-family: "Yozakura Regular";
 src: local("Yozakura"), local("Yozakura-Regular"),
-    url(../fonts/yozakura/yozakuraJP-Regular.otf) format("opentype");
+    url("../fonts/yozakura/yozakuraJP-Regular.otf") format("opentype");
 font-weight: 400 950;
 }
 
