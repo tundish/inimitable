@@ -245,12 +245,12 @@ a {
 color: var(--punchline-colour-shadows, grey);
 font-family: var(--detail);
 font-weight: bolder;
-padding: 0.5em;
+padding-left: 0.5em;
+padding-right: 0.5em;
 }
 
 li a {
 border: 1px solid var(--punchline-colour-washout, whitesmoke);
-font-size: 1.8rem;
 margin: 0.5rem 0 0.5rem 0;
 }
 
