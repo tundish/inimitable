@@ -22,24 +22,30 @@ Index
 0
 -
 
-This is a short work for the `Philosophy Game Jam`_.
-
 .. property:: SETTINGS.punchline-states-refresh none
+
+This is a short work for the `Philosophy Game Jam`_.
 
 The day is `Monday <https://tundish.github.io/inimitable/monday/00.html>`_.
 
 1
 -
 
+This is a short work for the `Philosophy Game Jam`_.
+
 The day is `Tuesday <https://tundish.github.io/inimitable/tuesday/00.html>`_.
 
 2
 -
 
+This is a short work for the `Philosophy Game Jam`_.
+
 The day is `Wednesday <https://tundish.github.io/inimitable/wednesday/00.html>`_.
 
 3
 -
+
+This is a short work for the `Philosophy Game Jam`_.
 
 The day is `Thursday <https://tundish.github.io/inimitable/thursday/00.html>`_.
 
