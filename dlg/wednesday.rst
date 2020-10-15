@@ -53,7 +53,7 @@ Wednesday
 
     So I tap, tap, tap. And you pick up three coins.
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
+.. property:: SETTINGS.punchline-states-refresh 04.html
 
 10-08
 -----
@@ -70,7 +70,7 @@ Wednesday
 
     And you take two coins.
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
+.. property:: SETTINGS.punchline-states-refresh 04.html
 
 09-08
 -----
@@ -87,7 +87,7 @@ Wednesday
 
     And you take one coin.
 
-.. property:: SETTINGS.punchline-states-refresh wednesday/04.html
+.. property:: SETTINGS.punchline-states-refresh 04.html
 
 Game over
 ---------
@@ -129,4 +129,4 @@ Salt in the wound
 
     Sorry. I needed enough experiments to be statistically significant.
 
-.. property:: SETTINGS.punchline-states-refresh index/03.html
+.. property:: SETTINGS.punchline-states-refresh ../index/03.html

@@ -79,7 +79,7 @@ Monday
 
     **Mandelbrot** scrapes at the ground and ends up with three.
 
-.. property:: SETTINGS.punchline-states-refresh monday/05.html
+.. property:: SETTINGS.punchline-states-refresh 05.html
 
 10-08
 -----
@@ -90,7 +90,7 @@ Monday
 
     **Mandelbrot** takes the same.
 
-.. property:: SETTINGS.punchline-states-refresh monday/05.html
+.. property:: SETTINGS.punchline-states-refresh 05.html
 
 
 09-08
@@ -102,7 +102,7 @@ Monday
 
     **Mandelbrot** takes one coin from the pile.
 
-.. property:: SETTINGS.punchline-states-refresh monday/05.html
+.. property:: SETTINGS.punchline-states-refresh 05.html
 
 08
 --
@@ -128,7 +128,7 @@ Monday
 
     **Mandelbrot** carefully selects three.
 
-.. property:: SETTINGS.punchline-states-refresh monday/09.html
+.. property:: SETTINGS.punchline-states-refresh 09.html
 
 06-04
 -----
@@ -139,7 +139,7 @@ Monday
 
     **Mandelbrot** takes another two.
 
-.. property:: SETTINGS.punchline-states-refresh monday/09.html
+.. property:: SETTINGS.punchline-states-refresh 09.html
 
 05-04
 -----
@@ -158,7 +158,7 @@ Monday
 
     **Mandelbrot** takes one coin for himself.
 
-.. property:: SETTINGS.punchline-states-refresh monday/09.html
+.. property:: SETTINGS.punchline-states-refresh 09.html
 
 04
 --
@@ -184,7 +184,7 @@ Monday
 
     Three, and I win.
 
-.. property:: SETTINGS.punchline-states-refresh index/01.html
+.. property:: SETTINGS.punchline-states-refresh ../index/01.html
 
 02
 --
@@ -197,7 +197,7 @@ Monday
 
     Two, and I win.
 
-.. property:: SETTINGS.punchline-states-refresh index/01.html
+.. property:: SETTINGS.punchline-states-refresh ../index/01.html
 
 01
 --
@@ -211,4 +211,4 @@ Monday
 
     One, and I win.
 
-.. property:: SETTINGS.punchline-states-refresh index/01.html
+.. property:: SETTINGS.punchline-states-refresh ../index/01.html

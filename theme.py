@@ -32,7 +32,8 @@ class Inimitable(Theme):
     @property
     def definitions(self):
         return {
-            #"inimitable-data-coins": "12",
+            "titles": '"Yozakura Regular"',
+            "detail": "Fontin",
         }
 
     @property

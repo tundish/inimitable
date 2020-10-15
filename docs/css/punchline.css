@@ -7,6 +7,7 @@ box-sizing: border-box;
 border: 0;
 font: inherit;
 font-size: 100%;
+font-variant: normal;
 line-height: 1.2em;
 list-style-type: none;
 margin: 0;
@@ -20,6 +21,8 @@ vertical-align: baseline;
 font-family: "Fontin";
 src: local("Fontin-Regular"),
     url(/fonts/fontin_pc/Fontin-Regular.otf) format("opentype");
+font-style: normal;
+font-variant: normal;
 font-weight: 100 600;
 }
 
@@ -27,6 +30,8 @@ font-weight: 100 600;
 font-family: "Fontin";
 src: local("Fontin-Bold"),
     url(/fonts/fontin_pc/Fontin-Bold.otf) format("opentype");
+font-style: normal;
+font-variant: normal;
 font-weight: 600 950;
 }
 
@@ -35,12 +40,14 @@ font-family: "Fontin";
 src: local("Fontin-Italic"),
     url(/fonts/fontin_pc/Fontin-Italic.otf) format("opentype");
 font-style: italic;
+font-variant: normal;
 }
 
 @font-face {
 font-family: "Fontin Small Caps";
 src: local("Fontin-SmallCaps"),
     url(/fonts/fontin_pc/Fontin-SmallCaps.otf) format("opentype");
+font-style: normal;
 font-weight: 100 950;
 }
 

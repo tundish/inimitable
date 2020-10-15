@@ -12,7 +12,6 @@
    :types: turberfield.punchline.types.Eponymous
 
 
-
 Thursday
 ========
 

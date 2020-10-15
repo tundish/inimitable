@@ -46,7 +46,7 @@ Tuesday
 
     **Mandelbrot** collects three coins from the pile.
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/04.html
+.. property:: SETTINGS.punchline-states-refresh 04.html
 
 10-08
 -----
@@ -57,7 +57,7 @@ Tuesday
 
     **Mandelbrot** also picks up two coins.
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/04.html
+.. property:: SETTINGS.punchline-states-refresh 04.html
 
 09-08
 -----
@@ -68,7 +68,7 @@ Tuesday
 
     **Mandelbrot** takes a coin from the pile.
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/04.html
+.. property:: SETTINGS.punchline-states-refresh 04.html
 
 08
 --
@@ -102,7 +102,7 @@ Tuesday
 
     **Mandelbrot** takes three coins.
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/08.html
+.. property:: SETTINGS.punchline-states-refresh 08.html
 
 06-04
 -----
@@ -133,7 +133,7 @@ Tuesday
 
     **Mandelbrot** reaches down and takes another two.
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/08.html
+.. property:: SETTINGS.punchline-states-refresh 08.html
 
 05-04
 -----
@@ -152,7 +152,7 @@ Tuesday
 
     **Mandelbrot** takes a coin from the pile.
 
-.. property:: SETTINGS.punchline-states-refresh tuesday/08.html
+.. property:: SETTINGS.punchline-states-refresh 08.html
 
 04
 --
@@ -175,7 +175,7 @@ Tuesday
 
     Three. Another win to meeeee.
 
-.. property:: SETTINGS.punchline-states-refresh index/02.html
+.. property:: SETTINGS.punchline-states-refresh ../index/02.html
 
 02
 --
@@ -186,7 +186,7 @@ Tuesday
 
     Again.
 
-.. property:: SETTINGS.punchline-states-refresh index/02.html
+.. property:: SETTINGS.punchline-states-refresh ../index/02.html
 
 01
 --
@@ -197,6 +197,6 @@ Tuesday
 
     I win.
 
-.. property:: SETTINGS.punchline-states-refresh index/02.html
+.. property:: SETTINGS.punchline-states-refresh ../index/02.html
 
 .. _random: https://www.random.org/integers/?num=1&min=1&max=3&col=1&base=10&format=html
