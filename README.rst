@@ -12,6 +12,6 @@ The site is created with this command::
 
     punchline --config punchline.cfg --output docs dlg/
 
-Or you can play it online courtesy of `GitHub Pages <https://tundish.github.io/inimitable/>`.
+Or you can play it online courtesy of `GitHub Pages <https://tundish.github.io/inimitable/>`__.
 
 .. _Punchline: https://github.com/tundish/turberfield-punchline
